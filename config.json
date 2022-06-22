@@ -6,7 +6,7 @@
   "donasiDana": "-",
   "donasiGopay": "-",
   "sessionName": "session",
-  "pathimg": ".https://telegra.ph/file/570c4356d61c961c8ac4b.jpg",
+  "pathimg": "./media/logo.jpg",
   "gamewaktu": 90,
   "limitCount": 25,
   "gcount": {
